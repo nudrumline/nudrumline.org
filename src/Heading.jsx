@@ -83,6 +83,7 @@ const Button = styled.button`
   svg {
     width: 64px;
     height: 64px;
+    stroke-width: 4px;
   }
 `;
 
@@ -92,7 +93,7 @@ export default function Heading() {
       <AboveTitle>NORTHWESTERN UNIVERSITY</AboveTitle>
       <Title>DRUMLINE</Title>
 
-      <BoxContainer>
+      <BoxContainer className="no-scrollbar">
         <HeadingCard title="Pride" icon={HeartIcon} subtitle="noun">
           a consciousness of what befits oneself or one's position;
           self-respect; self-esteem
@@ -115,7 +116,7 @@ export default function Heading() {
           });
         }}
       >
-        <ArrowDownIcon style={{ strokeWidth: '4px' }} />
+        <ArrowDownIcon />
       </Button>
     </Container>
   );
