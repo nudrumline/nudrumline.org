@@ -104,7 +104,7 @@ export default function Heading() {
           enterprise
         </HeadingCard>
         <HeadingCard title="Honor" icon={UserIcon} subtitle="noun">
-          great respect, esteem, or reverebnce received, gained, or given by a
+          great respect, esteem, or reverence received, gained, or given by a
           person or thing
         </HeadingCard>
       </BoxContainer>
