@@ -8,6 +8,36 @@ import {
   SmallColumn,
 } from './styling';
 
+const startYear = 1911;
+const monthShift = 5; // change on first of June
+
+function getSeason() {
+  const currentYear = new Date().getUTCFullYear();
+  const currentMonth = new Date().getUTCMonth();
+
+  let difference = currentYear - startYear;
+  if (currentMonth < monthShift) {
+    difference -= 1;
+  }
+
+  let suffix;
+  switch (difference % 10) {
+    case 1:
+      suffix = 'st';
+      break;
+    case 2:
+      suffix = 'nd';
+      break;
+    case 3:
+      suffix = 'rd';
+      break;
+    default:
+      suffix = 'th';
+  }
+
+  return `${difference}${suffix}`;
+}
+
 export default function About() {
   return (
     <ContentContainer id="about">
@@ -15,9 +45,8 @@ export default function About() {
         <ContentTitle>ABOUT US</ContentTitle>
         <ContentText>
           The Northwestern University Drumline is an organization affiliated
-          with the Northwestern University Marching Band, now in our 105th
-          (TODO: is this still correct lol when was this updated last???) year
-          of performance.
+          with the Northwestern University Marching Band, now in our{' '}
+          {getSeason()} year of performance.
         </ContentText>
         <ContentText>
           We are a close-knit group of performers brought together by our love
