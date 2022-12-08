@@ -59,6 +59,7 @@ const BoxContainer = styled.div`
   align-items: center;
   width: 100%;
   overflow-x: scroll;
+  overflow-y: hidden;
 
   @media ${device.desktop} {
     justify-content: center;
