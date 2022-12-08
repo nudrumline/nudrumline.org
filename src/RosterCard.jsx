@@ -39,7 +39,7 @@ const Column = styled.div`
 const Section = styled.h3`
   font-weight: 600;
   font-size: 16px;
-  margin: 64px 0 8px 0;
+  margin: 32px 0 8px 0;
 `;
 
 export default function RosterCard({ id, roster }) {

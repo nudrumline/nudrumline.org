@@ -3,7 +3,7 @@ import preview from './assets/preview.jpg';
 import HeadingCard from './HeadingCard';
 import { device } from './styling';
 import { HeartIcon, StarIcon, UserIcon } from '@heroicons/react/24/solid';
-import { ArrowDownIcon } from '@heroicons/react/24/outline';
+import { ChevronDownIcon } from '@heroicons/react/24/outline';
 
 const Container = styled.div`
   position: relative;
@@ -68,21 +68,21 @@ const BoxContainer = styled.div`
 
 const Button = styled.button`
   position: absolute;
-  bottom: 32px;
+  bottom: 0;
   color: white;
   background: none;
   border: none;
   padding: 20px;
   transition: transform 0.2s, opacity 0.2s;
   cursor: pointer;
-  opacity: 0.8;
+  opacity: 0.75;
   &:hover {
-    transform: translateY(12px);
+    transform: translateY(8px);
     opacity: 1;
   }
   svg {
-    width: 64px;
-    height: 64px;
+    width: 48px;
+    height: 48px;
     stroke-width: 4px;
   }
 `;
@@ -116,7 +116,7 @@ export default function Heading() {
           });
         }}
       >
-        <ArrowDownIcon />
+        <ChevronDownIcon />
       </Button>
     </Container>
   );
