@@ -1,0 +1,46 @@
+@font-face {
+  font-family: open-sans;
+  src: url(/fonts/MPLUSRounded1c-Regular.ttf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: open-sans;
+  src: url(/fonts/MPLUSRounded1c-Medium.ttf);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: open-sans;
+  src: url(/fonts/MPLUSRounded1c-Bold.ttf);
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: open-sans;
+  src: url(/fonts/MPLUSRounded1c-Black.ttf);
+  font-weight: 900;
+}
+
+body {
+  font-family: open-sans;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+button {
+  background: none;
+  border: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}

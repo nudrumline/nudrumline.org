@@ -1,0 +1,289 @@
+rosters:
+  - year: 2022
+    snares:
+      - Hannah Christensen
+      - Maya Hidalgo
+      - MA Khatri
+      - Dilan Nair
+    tenors:
+      - name: Kegan Grace
+        captain: true
+      - name: Luke McGorry
+        captain: true
+    basses:
+      - Isaac Cross
+      - Jacob Cox
+      - Courtney Sindelar
+      - Ben Gordon
+      - William Engedal
+    cymbals:
+      - Dena Cher-Fils
+      - David Drinko
+      - Emerald Lewis
+      - Claire Throckmorton
+    instructor: Scott Simon
+
+  - year: 2021
+    snares:
+      - Hannah Christensen
+      - Dilan Nair
+      - name: Noah Schaffer
+        captain: true
+      - Johnathan Zhang
+    tenors:
+      - name: Kegan Grace
+        captain: true
+      - Luke McGorry
+    basses:
+      - Jacob Cox
+      - Cyn Jaimes
+      - Courtney Sindelar
+      - William Engedal
+      - MA Khatri
+    cymbals:
+      - Spencer Brown
+      - Dena Cher-Fils
+      - David Drinko
+      - Hannah Gonzales
+      - Lorenzo Jennings
+      - Emerald Lewis
+      - Natalie Myren
+      - Austin Stevenson
+      - Claire Throckmorton
+    instructor: Scott Simon
+
+  - year: 2020
+    snares:
+      - Justin Askenazy
+      - Hannah Christensen
+      - Dilan Nair
+      - name: Matthew Rothschild
+        captain: true
+      - Noah Schaffer
+    tenors:
+      - Kegan Grace
+      - name: JJ Hale
+        captain: true
+    basses:
+      - Cyn Jaimes
+      - Alex Kolar
+      - MA Khatri
+      - Luke McGorry
+      - Alex Banta
+    cymbals:
+      - Dena Cher-Fils
+      - Maggie Carlson
+      - Katie Daehler
+      - Hannah Gonzales
+      - Lorenzo Jennings
+      - Austin Stevenson
+      - Claire Throckmorton
+    instructor: Scott Simon
+
+  - year: 2019
+    snares:
+      - Justin Askenazy
+      - Matthew Rothschild
+      - Noah Schaffer
+      - Johnathan Zhang
+    tenors:
+      - name: JJ Hale
+        captain: true
+      - Daniel Leon
+    basses:
+      - Cyn Jaimes
+      - name: Jared Zvonar
+        captain: true
+      - Alex Kolar
+      - Kegan Grace
+      - Alex Banta
+    cymbals:
+      - Katie Daehler
+      - Hannah Gonzales
+      - MA Khatri
+      - Kathryn Riopel
+      - Austin Stevenson
+    instructor: Brandon Bromsey
+
+  - year: 2018
+    snares:
+      - Justin Askenazy
+      - Matthew Rothschild
+      - Noah Schaffer
+      - Thomas Young
+    tenors:
+      - Calliope Davishines
+      - name: JJ Hale
+        captain: true
+      - Daniel Leon
+    basses:
+      - Cyn Jaimes
+      - Kyle LaBrosse
+      - Alex Kolar
+      - Jared Zvonar
+    cymbals:
+      - Alex Banta
+      - Miriam Barnicle
+      - Katie Daehler
+      - Harris Gelblium
+      - Hannah Gonzales
+      - John Holtgrieve
+      - Kathryn Riopel
+      - Austin Stevenson
+    instructor: Will Cooley
+
+  - year: 2017
+    snares:
+      - Justin Askenazy
+      - name: Eric Van Camp
+        captain: true
+      - name: Billy Kobin
+        captain: true
+      - Adrick Tench
+      - Thomas Young
+    tenors:
+      - JJ Hale
+      - Kathryn Riopel
+      - Matthew Rothschild
+    basses:
+      - Calliope Davishines
+      - Abby Lammers
+      - Kyle LaBrosse
+      - Jeff Maginity
+      - Jared Zvonar
+    cymbals:
+      - Victor Aung
+      - Alex Banta
+      - Miriam Barnicle
+      - Pragya Chandra
+      - Katie Daehler
+      - Harris Gelblum
+      - Alex Kolar
+    instructor: Will Cooley
+
+  - year: 2016
+    snares:
+      - Eric Van Camp
+      - Billy Kobin
+      - Adrick Tench
+      - Thomas Young
+    tenors:
+      - Kathryn Riopel
+      - Liam Sunde
+    basses:
+      - Abby Lammers
+      - name: Jon Kemp
+        captain: true
+      - Kyle LaBrosse
+      - name: Brian Capella
+        captain: true
+      - Kyle Engelmann
+    cymbals:
+      - Miriam Barnicle
+      - Gina Grabinski
+      - Kai Kuo
+      - Jeff Maginity
+      - Jared Zvonar
+    instructor: Will Cooley
+
+  - year: 2015
+    snares:
+      - name: Simon Barnicle
+        captain: true
+      - Eric Van Camp
+      - Billy Kobin
+      - Adrick Tench
+    tenors:
+      - Greg Crow
+      - Matt Shipley
+    basses:
+      - Abby Lammers
+      - name: Jon Kemp
+        captain: true
+      - Kyle LaBrosse
+      - Brian Capella
+      - Kyle Engelmann
+    cymbals:
+      - Miriam Barnicle
+      - Jeremy Joseph
+      - Kai Kasprick
+      - Jeff Maginity
+      - Liam Sunde
+    instructor: Matt Penland
+
+contact:
+  - name: Kegan Grace
+    title: 2022 Captain
+    email: kegangrace2023@u.northwestern.edu
+  - name: Luke McGorry
+    title: 2022 Captain
+    email: lukemcgorry2024@u.northwestern.edu
+  - name: Dan Farris
+    title: Director of Athletic Bands
+    email: d-farris@northwestern.edu
+
+join:
+  files:
+    - name: 2022 Audition Packet
+      file: /2022_Audition_Packet.pdf
+
+  events:
+    - what: Workshop 1
+      when: Friday, May 6 2022, 7:00 PM - 9:00 PM
+      where: Regenstein Hall of Music, room 011
+    - what: Workshop 2
+      when: Saturday, May 14 2022, 1:00 PM - 3:00 PM
+      where: Regenstein Hall of Music, room 011
+    - what: On-campus auditions
+      when: Friday, May 20 2022, 7:00 PM - 9:00 PM
+      where: Regeinstein Hall of Music, room 011
+
+videos:
+  - name: 2016 - Drum Battle with the Nebraska Drumline
+    youtube: OVR3RQCwp20
+    featured: true
+  - name: 2015 - Drum Battle with the Purdue Drumline
+    youtube: rTfNSKaRc0Q
+    featured: true
+  - name: 2013 - Drum Battle with the Iowa Drumline
+    youtube: qHaKhCwcj_8
+  - name: 2012 - Sequence
+    youtube: 5SxPWZbk4zE
+  - name: 2012 - Drum Battle with the Michigan Drumline
+    youtube: 15FUeidHdv4
+  - name: 2006 - Cadence Sequence
+    youtube: CLVPJLUBugk
+
+footer:
+  - category: Navigation
+    links:
+      - name: About
+        url: '#about'
+        sameTab: true
+      - name: Roster
+        url: '#roster'
+        sameTab: true
+      - name: Join or Contact Us
+        url: '#contact'
+        sameTab: true
+      - name: Videos
+        url: '#videos'
+        sameTab: true
+  - category: Links
+    links:
+      - name: Northwestern University
+        url: https://www.northwestern.edu
+      - name: Northwestern Football
+        url: https://nusports.com/sports/football
+      - name: Northwestern Bands
+        url: https://northwesternbands.org
+      - name: Northwestern Office of Community Standards
+        url: https://www.northwestern.edu/communitystandards/
+  - category: Social Media
+    links:
+      - name: Instagram
+        url: https://www.instagram.com/nudrumline/
+      - name: Facebook
+        url: https://www.facebook.com/nudrumline/
+      - name: Twitter
+        url: https://twitter.com/NUDrumline

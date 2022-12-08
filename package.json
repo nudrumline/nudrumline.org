@@ -1,0 +1,28 @@
+{
+  "name": "nudrumline.org",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "prettier": "@dilanx/config/prettier",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.0.13",
+    "js-yaml": "^4.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-youtube": "^10.1.0",
+    "styled-components": "^5.3.6"
+  },
+  "devDependencies": {
+    "@dilanx/config": "^1.1.0",
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "@vitejs/plugin-react": "^2.2.0",
+    "prettier": "2.8.0",
+    "vite": "^3.2.3"
+  }
+}
