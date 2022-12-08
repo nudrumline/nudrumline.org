@@ -4,7 +4,7 @@ import { device } from './styling';
 
 const Container = styled.div`
   background-color: white;
-  padding: 32px 64px;
+  padding: 32px 16px;
   border-radius: 16px;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   text-align: center;
@@ -14,6 +14,7 @@ const Container = styled.div`
 
   @media ${device.desktop} {
     margin: 0 64px;
+    padding: 32px 64px;
   }
 `;
 
@@ -24,10 +25,8 @@ const Title = styled.h2`
 
 const Content = styled.div`
   display: flex;
-  flex-direction: column;
 
   @media ${device.desktop} {
-    flex-direction: row;
     gap: 64px;
   }
 `;
