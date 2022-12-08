@@ -1,29 +1,29 @@
 @font-face {
-  font-family: open-sans;
+  font-family: mplusrounded1c;
   src: url(/fonts/MPLUSRounded1c-Regular.ttf);
   font-weight: 400;
 }
 
 @font-face {
-  font-family: open-sans;
+  font-family: mplusrounded1c;
   src: url(/fonts/MPLUSRounded1c-Medium.ttf);
   font-weight: 500;
 }
 
 @font-face {
-  font-family: open-sans;
+  font-family: mplusrounded1c;
   src: url(/fonts/MPLUSRounded1c-Bold.ttf);
   font-weight: 600;
 }
 
 @font-face {
-  font-family: open-sans;
+  font-family: mplusrounded1c;
   src: url(/fonts/MPLUSRounded1c-Black.ttf);
   font-weight: 900;
 }
 
 body {
-  font-family: open-sans;
+  font-family: mplusrounded1c;
   margin: 0;
 }
 
