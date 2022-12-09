@@ -53,6 +53,7 @@ const Watermark = styled.div`
 
   a {
     opacity: 0.75;
+    transition: opacity 150ms;
 
     &:hover {
       opacity: 1;
