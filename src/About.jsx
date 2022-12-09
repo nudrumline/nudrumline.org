@@ -20,19 +20,14 @@ function getSeason() {
     difference -= 1;
   }
 
-  let suffix;
-  switch (difference % 10) {
-    case 1:
-      suffix = 'st';
-      break;
-    case 2:
-      suffix = 'nd';
-      break;
-    case 3:
-      suffix = 'rd';
-      break;
-    default:
-      suffix = 'th';
+  let suffix = 'th';
+
+  if (difference % 10 === 1 && difference % 100 !== 11) {
+    suffix = 'st';
+  } else if (difference % 10 === 2 && difference % 100 !== 12) {
+    suffix = 'nd';
+  } else if (difference % 10 === 3 && difference % 100 !== 13) {
+    suffix = 'rd';
   }
 
   return `${difference}${suffix}`;
