@@ -101,7 +101,7 @@ export default function Footer({ footer }) {
       </Content>
       <Watermark>
         <a href="https://www.dilanxd.com" target="_blank" rel="noreferrer">
-          <img src={watermark} alt="Dilan Nair" />
+          <img src={watermark} alt="website created by Dilan Nair" />
         </a>
       </Watermark>
     </Container>
