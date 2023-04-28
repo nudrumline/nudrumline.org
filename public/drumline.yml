@@ -212,12 +212,12 @@ rosters:
     instructor: Matt Penland
 
 contact:
-  - name: Kegan Grace
-    title: 2022 Captain
-    email: kegangrace2023@u.northwestern.edu
   - name: Luke McGorry
-    title: 2022 Captain
+    title: 2023 Captain
     email: lukemcgorry2024@u.northwestern.edu
+  - name: Jacob Cox
+    title: 2023 Captain
+    email: jacobcox2025@u.northwestern.edu
   - name: Scott Simon
     title: Percussion Instructor
     email: srsimon23@yahoo.com
@@ -227,18 +227,18 @@ contact:
 
 join:
   files:
-    - name: 2022 Audition Packet
-      file: /2022_Audition_Packet.pdf
+    - name: 2023 Audition Packet
+      file: /2023-Audition-Packet-Final.pdf
 
   events:
     - what: Workshop 1
-      when: Friday, May 6 2022, 7:00 PM - 9:00 PM
-      where: Regenstein Hall of Music, room 011
+      when: Friday, May 5 2023, 7:00 PM - 9:00 PM
+      where: Ryan Center for the Musical Arts, room LL121 (subject to change)
     - what: Workshop 2
-      when: Saturday, May 14 2022, 1:00 PM - 3:00 PM
-      where: Regenstein Hall of Music, room 011
-    - what: On-campus auditions
-      when: Friday, May 20 2022, 7:00 PM - 9:00 PM
+      when: Friday, May 19 2023, 7:00 PM - 9:00 PM
+      where: Ryan Center for the Musical Arts, room LL121 (subject to change)
+    - what: On-Campus Auditions
+      when: Friday, May 26 2023, 7:00 PM - 9:00 PM
       where: Regeinstein Hall of Music, room 011
 
 videos:
