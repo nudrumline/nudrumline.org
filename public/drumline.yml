@@ -1,4 +1,30 @@
 rosters:
+  - year: 2023
+    snares:
+      - Hannah Christensen
+      - Maya Hidalgo
+      - MA Khatri
+      - Benjamin Lin
+      - Lily Mitchell
+    tenors:
+      - name: Luke McGorry
+        captain: true
+      - name: Isaac Cross
+    basses:
+      - Courtney Sindelar
+      - Jacob Cox
+        captain: true
+      - Ryan Wilkov
+      - Jimmy Zhang
+      - Ben Gordon
+    cymbals:
+      - Claire Throckmorton
+      - Dena Cher-Fils
+      - David Drinko
+      - Katie Chen
+      - Vivian Perez-Leyva
+    instructor: Scott Simon
+
   - year: 2022
     snares:
       - Hannah Christensen
