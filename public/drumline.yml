@@ -9,10 +9,10 @@ rosters:
     tenors:
       - name: Luke McGorry
         captain: true
-      - name: Isaac Cross
+      - Isaac Cross
     basses:
       - Courtney Sindelar
-      - Jacob Cox
+      - name: Jacob Cox
         captain: true
       - Ryan Wilkov
       - Jimmy Zhang
