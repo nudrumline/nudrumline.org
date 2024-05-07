@@ -254,18 +254,18 @@ contact:
 join:
   files:
     - name: 2024 Audition Packet
-      file: /2023-Audition-Packet-Updated.pdf
+      file: /2024-Audition-Packet.pdf
 
   events:
     - what: Workshop 1
-      when: Friday, May 5 2023, 7:00 PM - 9:00 PM
-      where: Regenstein Hall of Music, room 011 (UPDATED LOCATION)
+      when: Sunday, May 12 2024, 5:30 PM - 7:30 PM
+      where: Pick-Staiger Rehearsal Room
     - what: Workshop 2
-      when: Friday, May 19 2023, 7:00 PM - 9:00 PM
-      where: Ryan Opera Theatre (UPDATED LOCATION)
-    - what: On-Campus Auditions
-      when: Friday, May 26 2023, 7:00 PM - 9:00 PM
+      when: Friday, May 17 2024, 7:00 PM - 9:00 PM
       where: Regenstein Hall of Music, room 011
+    - what: On-Campus Auditions
+      when: Monday, May 20 2024, 7:00 PM - 9:00 PM
+      where: Pick-Staiger Rehearsal Room
 
 videos:
   - name: 2016 - Drum Battle with the Nebraska Drumline
