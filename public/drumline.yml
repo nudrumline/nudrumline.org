@@ -238,11 +238,11 @@ rosters:
     instructor: Matt Penland
 
 contact:
-  - name: Luke McGorry
-    title: 2023 Captain
-    email: lukemcgorry2024@u.northwestern.edu
+  - name: David Drinko
+    title: 2024 Captain
+    email: daviddrinko2025@u.northwestern.edu
   - name: Jacob Cox
-    title: 2023 Captain
+    title: 2024 Captain
     email: jacobcox2025@u.northwestern.edu
   - name: Scott Simon
     title: Percussion Instructor
@@ -253,7 +253,7 @@ contact:
 
 join:
   files:
-    - name: 2023 Audition Packet
+    - name: 2024 Audition Packet
       file: /2023-Audition-Packet-Updated.pdf
 
   events:
