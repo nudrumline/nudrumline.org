@@ -1,4 +1,28 @@
 rosters:
+  - year: 2024
+    snares:
+      - Maya Hidalgo
+      - Benjamin Lin
+      - Deen Nair
+      - Ethan Ro
+    tenors:
+      - Jimmy Zhang
+    basses:
+      - Ryan Wilkov
+      - name: Jacob Cox
+        captain: true
+      - Joshua Lin
+      - name: David Drinko
+        captain: true
+      - Ben Gordon
+    cymbals:
+      - Katie Chen
+      - William Clark
+      - Michael Margulies
+      - Vivian Perez-Leyva
+      - Mireya Ramirez
+    instructor: Scott Simon
+
   - year: 2023
     snares:
       - Hannah Christensen
