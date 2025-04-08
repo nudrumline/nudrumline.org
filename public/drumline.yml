@@ -257,12 +257,12 @@ rosters:
     instructor: Matt Penland
 
 contact:
-  - name: David Drinko
-    title: 2024 Captain
-    email: daviddrinko2025@u.northwestern.edu
-  - name: Jacob Cox
-    title: 2024 Captain
-    email: jacobcox2025@u.northwestern.edu
+  - name: Benjamin Lin
+    title: 2025 Captain
+    email: benjaminlin2027@u.northwestern.edu
+  - name: Jimmy Zhang
+    title: 2025 Captain
+    email: jimmyzhang2027@u.northwestern.edu
   - name: Scott Simon
     title: Percussion Instructor
     email: srsimon23@yahoo.com
@@ -272,19 +272,19 @@ contact:
 
 join:
   files:
-    - name: 2024 Audition Packet
-      file: /2024-Audition-Packet.pdf
+    - name: 2025 Audition Packet
+      file: /2025-Audition-Packet.pdf
 
   events:
     - what: Workshop 1
-      when: Sunday, May 12 2024, 5:30 PM - 7:30 PM
-      where: Regenstein Hall of Music, room 011 (UPDATED LOCATION)
+      when: Friday, May 2, 2025, 7:00 PM - 9:00 PM
+      where: Regenstein Hall of Music, Room 011
     - what: Workshop 2
-      when: Friday, May 17 2024, 7:00 PM - 9:00 PM
-      where: Regenstein Hall of Music, room 011
+      when: Friday, May 9, 2025, 7:00 PM - 9:00 PM
+      where: Regenstein Hall of Music, Room 011
     - what: On-Campus Auditions
-      when: Monday, May 20 2024, 7:00 PM - 9:00 PM
-      where: Pick-Staiger Rehearsal Room
+      when: Friday, May 16, 2024, 7:00 PM - 9:00 PM
+      where: Regenstein Hall of Music, Room 011
 
 videos:
   - name: 2016 - Drum Battle with the Nebraska Drumline
@@ -308,11 +308,11 @@ footer:
       - name: About
         url: '#about'
         sameTab: true
-      - name: Roster
-        url: '#roster'
-        sameTab: true
       - name: Join or Contact Us
         url: '#contact'
+        sameTab: true
+      - name: Roster
+        url: '#roster'
         sameTab: true
       - name: Videos
         url: '#videos'
