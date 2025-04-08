@@ -25,8 +25,8 @@ function App() {
       <Heading />
       <ChicagoBanner />
       <About />
-      <Roster rosters={data?.rosters} />
       <Contact info={data?.contact} join={data?.join} />
+      <Roster rosters={data?.rosters} />
       <Watch videos={data?.videos} />
       <Footer footer={data?.footer} />
     </div>
