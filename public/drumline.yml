@@ -1,4 +1,27 @@
 rosters:
+  - year: 2025
+    snares:
+      - Maya Hidalgo
+      - name: Benjamin Lin
+        captain: true
+      - Ethan Ro
+    tenors:
+      - Sai Vignesh
+      - name: Jimmy Zhang
+        captain: true
+    basses:
+      - Elliot Lydon
+      - Ryan Wilkov
+      - Tori Stott
+      - Joshua Lin
+      - Ben Gordon
+    cymbals:
+      - Will Clark
+      - Gastón Klaric
+      - Vivian Perez-Leyva
+      - Mireya Ramirez
+    instructor: Scott Simon
+    
   - year: 2024
     snares:
       - Maya Hidalgo
@@ -16,7 +39,7 @@ rosters:
       - Ben Gordon
     cymbals:
       - Katie Chen
-      - William Clark
+      - Will Clark
       - Vivian Perez-Leyva
       - Mireya Ramirez
     instructor: Scott Simon
