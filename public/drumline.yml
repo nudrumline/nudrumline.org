@@ -282,33 +282,37 @@ rosters:
 
 contact:
   - name: Benjamin Lin
-    title: 2025 Captain
+    title: 2026 Captain
     email: benjaminlin2027@u.northwestern.edu
+  - name: Ethan Ro
+    title: 2026 Captain
+    email: ethanro2028@u.northwestern.edu
   - name: Jimmy Zhang
-    title: 2025 Captain
+    title: 2026 Captain
     email: jimmyzhang2027@u.northwestern.edu
   - name: Scott Simon
     title: Percussion Instructor
-    email: srsimon23@yahoo.com
-  - name: Dan Farris
+    email: scottia523@gmail.com
+  - name: Michael Parker
     title: Director of Athletic Bands
-    email: d-farris@northwestern.edu
 
 join:
   files:
-    - name: 2025 Audition Packet
-      file: /2025-Audition-Packet.pdf
+    - name: 2026 Audition Packet
+      file: /2026-Audition-Packet.pdf
 
   events:
     - what: Workshop 1
-      when: Friday, May 2, 2025, 7:00 PM - 9:00 PM
+      when: Friday, May 1, 2026, 7:00 PM - 9:00 PM
       where: Regenstein Hall of Music, Room 011
     - what: Workshop 2
-      when: Friday, May 9, 2025, 7:00 PM - 9:00 PM
+      when: Friday, May 8, 2026, 7:00 PM - 9:00 PM
       where: Regenstein Hall of Music, Room 011
     - what: On-Campus Auditions
-      when: Friday, May 16, 2025, 7:00 PM - 9:00 PM
+      when: Friday, May 22, 2026, 7:00 PM - 9:00 PM
       where: Regenstein Hall of Music, Room 011
+    - what: Video Auditions Due
+      when: Friday, June 19, 2026, 11:59 PM CST
 
 videos:
   - name: 2016 - Drum Battle with the Nebraska Drumline
