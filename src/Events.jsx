@@ -44,10 +44,12 @@ export default function Events({ events }) {
             <ClockIcon />
             <EventInfoText>{event.when}</EventInfoText>
           </EventInfo>
-          <EventInfo>
-            <MapPinIcon />
-            <EventInfoText>{event.where}</EventInfoText>
-          </EventInfo>
+          {event.where && (
+            <EventInfo>
+              <MapPinIcon />
+              <EventInfoText>{event.where}</EventInfoText>
+            </EventInfo>
+          )}
         </EventContainer>
       ))}
     </Container>
