@@ -293,8 +293,9 @@ contact:
   - name: Scott Simon
     title: Percussion Instructor
     email: scottia523@gmail.com
-  - name: Michael Parker
+  - name: Dr. Michael Parker
     title: Director of Athletic Bands
+    email: michael.parker@northwestern.edu
 
 join:
   files:
@@ -302,6 +303,8 @@ join:
       file: /2026-Audition-Packet.pdf
 
   events:
+    - what: Video Auditions Due
+      when: Friday, June 19, 2026, 11:59 PM CST
     - what: Workshop 1
       when: Friday, May 1, 2026, 7:00 PM - 9:00 PM
       where: Regenstein Hall of Music, Room 011
@@ -311,8 +314,6 @@ join:
     - what: On-Campus Auditions
       when: Friday, May 22, 2026, 7:00 PM - 9:00 PM
       where: Regenstein Hall of Music, Room 011
-    - what: Video Auditions Due
-      when: Friday, June 19, 2026, 11:59 PM CST
 
 videos:
   - name: 2016 - Drum Battle with the Nebraska Drumline
