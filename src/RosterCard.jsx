@@ -90,6 +90,8 @@ export default function RosterCard({ id, roster }) {
           {getNames(roster.tenors)}
           <Section>CYMBALS</Section>
           {getNames(roster.cymbals)}
+          {getNames(roster.toms)?.length > 0 && <Section>TOMS</Section>}
+          {getNames(roster.toms)}
         </Column>
       </Content>
       <Section>INSTRUCTOR</Section>
